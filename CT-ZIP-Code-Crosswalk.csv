@@ -1,0 +1,422 @@
+ZIP Code, City, Classification, County FIPS, County Name, Region FIPS, Region Name
+06001,Avon,,09003,Hartford,09110,Capitol
+06002,Bloomfield,,09003,Hartford,09110,Capitol
+06006,Windsor,U,09003,Hartford,09110,Capitol
+06010,Bristol,,09003,Hartford,09140,Naugatuck Vly
+06011,Bristol,P,09003,Hartford,09140,Naugatuck Vly
+06013,Burlington,,09003,Hartford,09110,Capitol
+06016,Broad Brook,,09003,Hartford,09110,Capitol
+06018,Canaan,,09005,Litchfield,09160,Nw Hills
+06019,Canton,,09003,Hartford,09110,Capitol
+06020,Canton Center,P,09003,Hartford,09110,Capitol
+06021,Colebrook,,09005,Litchfield,09160,Nw Hills
+06022,Collinsville,P,09003,Hartford,09110,Capitol
+06023,East Berlin,,09003,Hartford,09110,Capitol
+06024,East Canaan,,09005,Litchfield,09160,Nw Hills
+06025,East Glastonbury,P,09003,Hartford,09110,Capitol
+06026,East Granby,,09003,Hartford,09110,Capitol
+06027,East Hartland,,09003,Hartford,09160,Nw Hills
+06028,East Windsor Hill,P,09003,Hartford,09110,Capitol
+06029,Ellington,,09013,Tolland,09110,Capitol
+06030,Farmington,U,09003,Hartford,09110,Capitol
+06031,Falls Village,,09005,Litchfield,09160,Nw Hills
+06032,Farmington,,09003,Hartford,09110,Capitol
+06033,Glastonbury,,09003,Hartford,09110,Capitol
+06034,Farmington,P,09003,Hartford,09110,Capitol
+06035,Granby,,09003,Hartford,09110,Capitol
+06037,Berlin,,09003,Hartford,09110,Capitol
+06039,Lakeville,,09005,Litchfield,09160,Nw Hills
+06040,Manchester,,09003,Hartford,09110,Capitol
+06041,Manchester,U,09003,Hartford,09110,Capitol
+06042,Manchester,,09003,Hartford,09110,Capitol
+06043,Bolton,,09013,Tolland,09110,Capitol
+06045,Manchester,P,09003,Hartford,09110,Capitol
+06050,New Britain,P,09003,Hartford,09110,Capitol
+06051,New Britain,,09003,Hartford,09110,Capitol
+06052,New Britain,,09003,Hartford,09110,Capitol
+06053,New Britain,,09003,Hartford,09110,Capitol
+06057,New Hartford,,09005,Litchfield,09160,Nw Hills
+06058,Norfolk,,09005,Litchfield,09160,Nw Hills
+06059,North Canton,P,09005,Litchfield,09160,Nw Hills
+06060,North Granby,,09003,Hartford,09110,Capitol
+06061,Pine Meadow,P,09005,Litchfield,09160,Nw Hills
+06062,Plainville,,09003,Hartford,09110,Capitol
+06063,Barkhamsted,,09005,Litchfield,09160,Nw Hills
+06064,Poquonock,P,09003,Hartford,09110,Capitol
+06065,Riverton,,09003,Hartford,09160,Nw Hills
+06066,Vernon Rockville,,09013,Tolland,09110,Capitol
+06067,Rocky Hill,,09003,Hartford,09110,Capitol
+06068,Salisbury,,09005,Litchfield,09160,Nw Hills
+06069,Sharon,,09005,Litchfield,09160,Nw Hills
+06070,Simsbury,,09003,Hartford,09110,Capitol
+06071,Somers,,09013,Tolland,09110,Capitol
+06072,Somersville,P,09013,Tolland,09110,Capitol
+06073,South Glastonbury,,09003,Hartford,09110,Capitol
+06074,South Windsor,,09003,Hartford,09110,Capitol
+06075,Stafford,P,09013,Tolland,09110,Capitol
+06076,Stafford Springs,,09013,Tolland,09110,Capitol
+06077,Staffordville,P,09013,Tolland,09110,Capitol
+06078,Suffield,,09003,Hartford,09110,Capitol
+06079,Taconic,P,09005,Litchfield,09160,Nw Hills
+06080,Suffield,U,09003,Hartford,09110,Capitol
+06081,Tariffville,,09003,Hartford,09110,Capitol
+06082,Enfield,,09003,Hartford,09110,Capitol
+06083,Enfield,P,09003,Hartford,09110,Capitol
+06084,Tolland,,09013,Tolland,09110,Capitol
+06085,Unionville,,09003,Hartford,09110,Capitol
+06088,East Windsor,,09003,Hartford,09110,Capitol
+06089,Weatogue,,09003,Hartford,09110,Capitol
+06090,West Granby,,09003,Hartford,09110,Capitol
+06091,West Hartland,,09003,Hartford,09160,Nw Hills
+06092,West Simsbury,,09003,Hartford,09110,Capitol
+06093,West Suffield,,09003,Hartford,09110,Capitol
+06094,Winchester Center,P,09005,Litchfield,09160,Nw Hills
+06095,Windsor,,09003,Hartford,09110,Capitol
+06096,Windsor Locks,,09003,Hartford,09110,Capitol
+06098,Winsted,,09005,Litchfield,09160,Nw Hills
+06101,Hartford,,09003,Hartford,09110,Capitol
+06102,Hartford,P,09003,Hartford,09110,Capitol
+06103,Hartford,,09003,Hartford,09110,Capitol
+06104,Hartford,P,09003,Hartford,09110,Capitol
+06105,Hartford,,09003,Hartford,09110,Capitol
+06106,Hartford,,09003,Hartford,09110,Capitol
+06107,West Hartford,,09003,Hartford,09110,Capitol
+06108,East Hartford,,09003,Hartford,09110,Capitol
+06109,Wethersfield,,09003,Hartford,09110,Capitol
+06110,West Hartford,,09003,Hartford,09110,Capitol
+06111,Newington,,09003,Hartford,09110,Capitol
+06112,Hartford,,09003,Hartford,09110,Capitol
+06114,Hartford,,09003,Hartford,09110,Capitol
+06115,Hartford,P,09003,Hartford,09110,Capitol
+06117,West Hartford,,09003,Hartford,09110,Capitol
+06118,East Hartford,,09003,Hartford,09110,Capitol
+06119,West Hartford,,09003,Hartford,09110,Capitol
+06120,Hartford,,09003,Hartford,09110,Capitol
+06123,Hartford,P,09003,Hartford,09110,Capitol
+06126,Hartford,P,09003,Hartford,09110,Capitol
+06127,West Hartford,P,09003,Hartford,09110,Capitol
+06128,East Hartford,P,09003,Hartford,09110,Capitol
+06129,Wethersfield,P,09003,Hartford,09110,Capitol
+06131,Newington,P,09003,Hartford,09110,Capitol
+06132,Hartford,P,09003,Hartford,09110,Capitol
+06133,West Hartford,P,09003,Hartford,09110,Capitol
+06134,Hartford,P,09003,Hartford,09110,Capitol
+06137,West Hartford,P,09003,Hartford,09110,Capitol
+06138,East Hartford,P,09003,Hartford,09110,Capitol
+06140,Hartford,P,09003,Hartford,09110,Capitol
+06141,Hartford,P,09003,Hartford,09110,Capitol
+06142,Hartford,P,09003,Hartford,09110,Capitol
+06143,Hartford,P,09003,Hartford,09110,Capitol
+06144,Hartford,P,09003,Hartford,09110,Capitol
+06145,Hartford,P,09003,Hartford,09110,Capitol
+06146,Hartford,P,09003,Hartford,09110,Capitol
+06147,Hartford,P,09003,Hartford,09110,Capitol
+06150,Hartford,U,09003,Hartford,09110,Capitol
+06151,Hartford,U,09003,Hartford,09110,Capitol
+06152,Hartford,,09003,Hartford,09110,Capitol
+06153,Hartford,U,09003,Hartford,09110,Capitol
+06154,Hartford,U,09003,Hartford,09110,Capitol
+06155,Hartford,U,09003,Hartford,09110,Capitol
+06156,Hartford,U,09003,Hartford,09110,Capitol
+06160,Hartford,U,09003,Hartford,09110,Capitol
+06161,Hartford,U,09003,Hartford,09110,Capitol
+06167,Hartford,U,09003,Hartford,09110,Capitol
+06176,Hartford,U,09003,Hartford,09110,Capitol
+06180,Hartford,U,09003,Hartford,09110,Capitol
+06183,Hartford,U,09003,Hartford,09110,Capitol
+06199,Hartford,P,09003,Hartford,09110,Capitol
+06226,Willimantic,,09015,Windham,09110,Capitol
+06230,Abington,P,09015,Windham,09150,Northeastern Ct
+06231,Amston,,09013,Tolland,09110,Capitol
+06232,Andover,,09013,Tolland,09110,Capitol
+06233,Ballouville,P,09015,Windham,09150,Northeastern Ct
+06234,Brooklyn,,09015,Windham,09150,Northeastern Ct
+06235,Chaplin,,09015,Windham,09110,Capitol
+06237,Columbia,,09013,Tolland,09110,Capitol
+06238,Coventry,,09013,Tolland,09110,Capitol
+06239,Danielson,,09015,Windham,09150,Northeastern Ct
+06241,Dayville,,09015,Windham,09150,Northeastern Ct
+06242,Eastford,,09015,Windham,09150,Northeastern Ct
+06243,East Killingly,,09015,Windham,09150,Northeastern Ct
+06244,East Woodstock,P,09015,Windham,09150,Northeastern Ct
+06245,Fabyan,P,09015,Windham,09150,Northeastern Ct
+06246,Grosvenor Dale,P,09015,Windham,09150,Northeastern Ct
+06247,Hampton,,09015,Windham,09150,Northeastern Ct
+06248,Hebron,,09013,Tolland,09110,Capitol
+06249,Lebanon,,09011,New London,09180,Southeastern Ct
+06250,Mansfield Center,,09013,Tolland,09110,Capitol
+06251,Mansfield Depot,P,09013,Tolland,09110,Capitol
+06254,North Franklin,,09011,New London,09180,Southeastern Ct
+06255,North Grosvenordale,,09015,Windham,09150,Northeastern Ct
+06256,North Windham,,09015,Windham,09110,Capitol
+06258,Pomfret,P,09015,Windham,09150,Northeastern Ct
+06259,Pomfret Center,,09015,Windham,09150,Northeastern Ct
+06260,Putnam,,09015,Windham,09150,Northeastern Ct
+06262,Quinebaug,,09015,Windham,09150,Northeastern Ct
+06263,Rogers,P,09015,Windham,09150,Northeastern Ct
+06264,Scotland,,09015,Windham,09150,Northeastern Ct
+06265,South Willington,,09013,Tolland,09110,Capitol
+06266,South Windham,,09015,Windham,09180,Southeastern Ct
+06267,South Woodstock,P,09015,Windham,09150,Northeastern Ct
+06268,Storrs Mansfield,,09013,Tolland,09110,Capitol
+06269,Storrs Mansfield,U,09013,Tolland,09110,Capitol
+06277,Thompson,,09015,Windham,09150,Northeastern Ct
+06278,Ashford,,09015,Windham,09150,Northeastern Ct
+06279,Willington,,09013,Tolland,09110,Capitol
+06280,Windham,,09015,Windham,09150,Northeastern Ct
+06281,Woodstock,,09015,Windham,09150,Northeastern Ct
+06282,Woodstock Valley,,09015,Windham,09150,Northeastern Ct
+06320,New London,,09011,New London,09180,Southeastern Ct
+06330,Baltic,,09011,New London,09150,Northeastern Ct
+06331,Canterbury,,09015,Windham,09150,Northeastern Ct
+06332,Central Village,P,09015,Windham,09150,Northeastern Ct
+06333,East Lyme,,09011,New London,09130,Lower Ct River Vly
+06334,Bozrah,,09011,New London,09180,Southeastern Ct
+06335,Gales Ferry,,09011,New London,09180,Southeastern Ct
+06336,Gilman,,09011,New London,09180,Southeastern Ct
+06338,Mashantucket,P,09011,New London,09180,Southeastern Ct
+06339,Ledyard,,09011,New London,09180,Southeastern Ct
+06340,Groton,,09011,New London,09180,Southeastern Ct
+06349,Groton,P,09011,New London,09180,Southeastern Ct
+06350,Hanover,P,09011,New London,09180,Southeastern Ct
+06351,Jewett City,,09011,New London,09150,Northeastern Ct
+06353,Montville,,09011,New London,09180,Southeastern Ct
+06354,Moosup,,09015,Windham,09150,Northeastern Ct
+06355,Mystic,,09011,New London,09180,Southeastern Ct
+06357,Niantic,,09011,New London,09180,Southeastern Ct
+06359,North Stonington,,09011,New London,09180,Southeastern Ct
+06360,Norwich,,09011,New London,09180,Southeastern Ct
+06365,Preston,,09011,New London,09180,Southeastern Ct
+06370,Oakdale,,09011,New London,09180,Southeastern Ct
+06371,Old Lyme,,09011,New London,09130,Lower Ct River Vly
+06372,Old Mystic,P,09011,New London,09180,Southeastern Ct
+06373,Oneco,P,09015,Windham,09150,Northeastern Ct
+06374,Plainfield,,09015,Windham,09150,Northeastern Ct
+06375,Quaker Hill,,09011,New London,09180,Southeastern Ct
+06376,South Lyme,P,09011,New London,09130,Lower Ct River Vly
+06377,Sterling,,09015,Windham,09150,Northeastern Ct
+06378,Stonington,,09011,New London,09180,Southeastern Ct
+06379,Pawcatuck,,09011,New London,09180,Southeastern Ct
+06380,Taftville,,09011,New London,09180,Southeastern Ct
+06382,Uncasville,,09011,New London,09180,Southeastern Ct
+06383,Versailles,P,09011,New London,09180,Southeastern Ct
+06384,Voluntown,,09011,New London,09150,Northeastern Ct
+06385,Waterford,,09011,New London,09180,Southeastern Ct
+06387,Wauregan,P,09015,Windham,09150,Northeastern Ct
+06388,West Mystic,P,09011,New London,09180,Southeastern Ct
+06389,Yantic,,09011,New London,09180,Southeastern Ct
+06401,Ansonia,,09009,New Haven,09140,Naugatuck Vly
+06403,Beacon Falls,,09009,New Haven,09140,Naugatuck Vly
+06404,Botsford,P,09001,Fairfield,09190,Western Ct
+06405,Branford,,09009,New Haven,09170,South Central Ct
+06408,Cheshire,U,09009,New Haven,09140,Naugatuck Vly
+06409,Centerbrook,,09007,Middlesex,09130,Lower Ct River Vly
+06410,Cheshire,,09009,New Haven,09110,Capitol
+06411,Cheshire,U,09009,New Haven,09140,Naugatuck Vly
+06412,Chester,,09007,Middlesex,09130,Lower Ct River Vly
+06413,Clinton,,09007,Middlesex,09130,Lower Ct River Vly
+06414,Cobalt,P,09007,Middlesex,09130,Lower Ct River Vly
+06415,Colchester,,09011,New London,09110,Capitol
+06416,Cromwell,,09007,Middlesex,09110,Capitol
+06417,Deep River,,09007,Middlesex,09130,Lower Ct River Vly
+06418,Derby,,09009,New Haven,09140,Naugatuck Vly
+06419,Killingworth,,09007,Middlesex,09130,Lower Ct River Vly
+06420,Salem,,09011,New London,09130,Lower Ct River Vly
+06422,Durham,,09007,Middlesex,09130,Lower Ct River Vly
+06423,East Haddam,,09007,Middlesex,09130,Lower Ct River Vly
+06424,East Hampton,,09007,Middlesex,09130,Lower Ct River Vly
+06426,Essex,,09007,Middlesex,09130,Lower Ct River Vly
+06437,Guilford,,09009,New Haven,09170,South Central Ct
+06438,Haddam,,09007,Middlesex,09130,Lower Ct River Vly
+06439,Hadlyme,P,09011,New London,09180,Southeastern Ct
+06440,Hawleyville,P,09001,Fairfield,09190,Western Ct
+06441,Higganum,,09007,Middlesex,09130,Lower Ct River Vly
+06442,Ivoryton,,09007,Middlesex,09130,Lower Ct River Vly
+06443,Madison,,09009,New Haven,09170,South Central Ct
+06444,Marion,P,09003,Hartford,09110,Capitol
+06447,Marlborough,,09003,Hartford,09110,Capitol
+06450,Meriden,,09009,New Haven,09130,Lower Ct River Vly
+06451,Meriden,,09009,New Haven,09110,Capitol
+06455,Middlefield,,09007,Middlesex,09130,Lower Ct River Vly
+06456,Middle Haddam,P,09007,Middlesex,09130,Lower Ct River Vly
+06457,Middletown,,09007,Middlesex,09130,Lower Ct River Vly
+06459,Middletown,U,09007,Middlesex,09130,Lower Ct River Vly
+06460,Milford,,09009,New Haven,09170,South Central Ct
+06461,Milford,,09009,New Haven,09170,South Central Ct
+06467,Milldale,P,09003,Hartford,09110,Capitol
+06468,Monroe,,09001,Fairfield,09120,Greater Bridgeport
+06469,Moodus,,09007,Middlesex,09130,Lower Ct River Vly
+06470,Newtown,,09001,Fairfield,09190,Western Ct
+06471,North Branford,,09009,New Haven,09170,South Central Ct
+06472,Northford,,09009,New Haven,09170,South Central Ct
+06473,North Haven,,09009,New Haven,09170,South Central Ct
+06474,North Westchester,P,09011,New London,09180,Southeastern Ct
+06475,Old Saybrook,,09007,Middlesex,09130,Lower Ct River Vly
+06477,Orange,,09009,New Haven,09140,Naugatuck Vly
+06478,Oxford,,09009,New Haven,09140,Naugatuck Vly
+06479,Plantsville,,09003,Hartford,09110,Capitol
+06480,Portland,,09007,Middlesex,09130,Lower Ct River Vly
+06481,Rockfall,,09007,Middlesex,09130,Lower Ct River Vly
+06482,Sandy Hook,,09001,Fairfield,09190,Western Ct
+06483,Seymour,,09009,New Haven,09140,Naugatuck Vly
+06484,Shelton,,09001,Fairfield,09120,Greater Bridgeport
+06487,South Britain,P,09009,New Haven,09140,Naugatuck Vly
+06488,Southbury,,09009,New Haven,09140,Naugatuck Vly
+06489,Southington,,09003,Hartford,09110,Capitol
+06491,Stevenson,P,09001,Fairfield,09120,Greater Bridgeport
+06492,Wallingford,,09009,New Haven,09140,Naugatuck Vly
+06493,Wallingford,U,09009,New Haven,09170,South Central Ct
+06494,Wallingford,U,09009,New Haven,09170,South Central Ct
+06495,Wallingford,U,09009,New Haven,09170,South Central Ct
+06498,Westbrook,,09007,Middlesex,09130,Lower Ct River Vly
+06501,New Haven,P,09009,New Haven,09170,South Central Ct
+06502,New Haven,P,09009,New Haven,09170,South Central Ct
+06503,New Haven,P,09009,New Haven,09170,South Central Ct
+06504,New Haven,P,09009,New Haven,09170,South Central Ct
+06505,New Haven,P,09009,New Haven,09170,South Central Ct
+06506,New Haven,P,09009,New Haven,09170,South Central Ct
+06507,New Haven,P,09009,New Haven,09170,South Central Ct
+06508,New Haven,P,09009,New Haven,09170,South Central Ct
+06509,New Haven,P,09009,New Haven,09170,South Central Ct
+06510,New Haven,,09009,New Haven,09170,South Central Ct
+06511,New Haven,,09009,New Haven,09170,South Central Ct
+06512,East Haven,,09009,New Haven,09170,South Central Ct
+06513,New Haven,,09009,New Haven,09170,South Central Ct
+06514,Hamden,,09009,New Haven,09170,South Central Ct
+06515,New Haven,,09009,New Haven,09170,South Central Ct
+06516,West Haven,,09009,New Haven,09170,South Central Ct
+06517,Hamden,,09009,New Haven,09170,South Central Ct
+06518,Hamden,,09009,New Haven,09170,South Central Ct
+06519,New Haven,,09009,New Haven,09170,South Central Ct
+06520,New Haven,P,09009,New Haven,09170,South Central Ct
+06521,New Haven,P,09009,New Haven,09170,South Central Ct
+06524,Bethany,,09009,New Haven,09170,South Central Ct
+06525,Woodbridge,,09009,New Haven,09170,South Central Ct
+06530,New Haven,P,09009,New Haven,09170,South Central Ct
+06531,New Haven,P,09009,New Haven,09170,South Central Ct
+06532,New Haven,P,09009,New Haven,09170,South Central Ct
+06533,New Haven,P,09009,New Haven,09170,South Central Ct
+06534,New Haven,P,09009,New Haven,09170,South Central Ct
+06535,New Haven,P,09009,New Haven,09170,South Central Ct
+06536,New Haven,P,09009,New Haven,09170,South Central Ct
+06537,New Haven,U,09009,New Haven,09170,South Central Ct
+06538,New Haven,U,09009,New Haven,09170,South Central Ct
+06540,New Haven,U,09009,New Haven,09170,South Central Ct
+06601,Bridgeport,P,09001,Fairfield,09120,Greater Bridgeport
+06602,Bridgeport,P,09001,Fairfield,09120,Greater Bridgeport
+06604,Bridgeport,,09001,Fairfield,09120,Greater Bridgeport
+06605,Bridgeport,,09001,Fairfield,09120,Greater Bridgeport
+06606,Bridgeport,,09001,Fairfield,09120,Greater Bridgeport
+06607,Bridgeport,,09001,Fairfield,09120,Greater Bridgeport
+06608,Bridgeport,,09001,Fairfield,09120,Greater Bridgeport
+06610,Bridgeport,,09001,Fairfield,09120,Greater Bridgeport
+06611,Trumbull,,09001,Fairfield,09120,Greater Bridgeport
+06612,Easton,,09001,Fairfield,09120,Greater Bridgeport
+06614,Stratford,,09001,Fairfield,09120,Greater Bridgeport
+06615,Stratford,,09001,Fairfield,09120,Greater Bridgeport
+06673,Bridgeport,U,09001,Fairfield,09120,Greater Bridgeport
+06699,Bridgeport,U,09001,Fairfield,09120,Greater Bridgeport
+06701,Waterbury,,09009,New Haven,09140,Naugatuck Vly
+06702,Waterbury,,09009,New Haven,09140,Naugatuck Vly
+06703,Waterbury,P,09009,New Haven,09140,Naugatuck Vly
+06704,Waterbury,,09009,New Haven,09140,Naugatuck Vly
+06705,Waterbury,,09009,New Haven,09140,Naugatuck Vly
+06706,Waterbury,,09009,New Haven,09140,Naugatuck Vly
+06708,Waterbury,,09009,New Haven,09140,Naugatuck Vly
+06710,Waterbury,,09009,New Haven,09140,Naugatuck Vly
+06712,Prospect,,09009,New Haven,09140,Naugatuck Vly
+06716,Wolcott,,09009,New Haven,09110,Capitol
+06720,Waterbury,P,09009,New Haven,09140,Naugatuck Vly
+06721,Waterbury,P,09009,New Haven,09140,Naugatuck Vly
+06722,Waterbury,P,09009,New Haven,09140,Naugatuck Vly
+06723,Waterbury,P,09009,New Haven,09140,Naugatuck Vly
+06724,Waterbury,P,09009,New Haven,09140,Naugatuck Vly
+06725,Waterbury,P,09009,New Haven,09140,Naugatuck Vly
+06726,Waterbury,P,09009,New Haven,09140,Naugatuck Vly
+06750,Bantam,,09005,Litchfield,09160,Nw Hills
+06751,Bethlehem,,09005,Litchfield,09140,Naugatuck Vly
+06752,Bridgewater,,09005,Litchfield,09160,Nw Hills
+06753,Cornwall,P,09005,Litchfield,09160,Nw Hills
+06754,Cornwall Bridge,,09005,Litchfield,09160,Nw Hills
+06755,Gaylordsville,,09005,Litchfield,09190,Western Ct
+06756,Goshen,,09005,Litchfield,09160,Nw Hills
+06757,Kent,,09005,Litchfield,09160,Nw Hills
+06758,Lakeside,,09005,Litchfield,09160,Nw Hills
+06759,Litchfield,,09005,Litchfield,09160,Nw Hills
+06762,Middlebury,,09009,New Haven,09140,Naugatuck Vly
+06763,Morris,,09005,Litchfield,09140,Naugatuck Vly
+06770,Naugatuck,,09009,New Haven,09140,Naugatuck Vly
+06776,New Milford,,09005,Litchfield,09160,Nw Hills
+06777,New Preston Marble Dale,,09005,Litchfield,09160,Nw Hills
+06778,Northfield,,09005,Litchfield,09140,Naugatuck Vly
+06779,Oakville,,09005,Litchfield,09140,Naugatuck Vly
+06781,Pequabuck,P,09005,Litchfield,09140,Naugatuck Vly
+06782,Plymouth,,09005,Litchfield,09140,Naugatuck Vly
+06783,Roxbury,,09005,Litchfield,09160,Nw Hills
+06784,Sherman,,09001,Fairfield,09190,Western Ct
+06785,South Kent,,09005,Litchfield,09160,Nw Hills
+06786,Terryville,,09005,Litchfield,09140,Naugatuck Vly
+06787,Thomaston,,09005,Litchfield,09140,Naugatuck Vly
+06790,Torrington,,09005,Litchfield,09160,Nw Hills
+06791,Harwinton,,09005,Litchfield,09160,Nw Hills
+06792,Torrington,U,09005,Litchfield,09160,Nw Hills
+06793,Washington,,09005,Litchfield,09140,Naugatuck Vly
+06794,Washington Depot,,09005,Litchfield,09160,Nw Hills
+06795,Watertown,,09005,Litchfield,09140,Naugatuck Vly
+06796,West Cornwall,,09005,Litchfield,09160,Nw Hills
+06798,Woodbury,,09005,Litchfield,09140,Naugatuck Vly
+06801,Bethel,,09001,Fairfield,09190,Western Ct
+06804,Brookfield,,09001,Fairfield,09190,Western Ct
+06807,Cos Cob,,09001,Fairfield,09190,Western Ct
+06810,Danbury,,09001,Fairfield,09190,Western Ct
+06811,Danbury,,09001,Fairfield,09190,Western Ct
+06812,New Fairfield,,09001,Fairfield,09190,Western Ct
+06813,Danbury,P,09001,Fairfield,09190,Western Ct
+06820,Darien,,09001,Fairfield,09190,Western Ct
+06824,Fairfield,,09001,Fairfield,09120,Greater Bridgeport
+06825,Fairfield,,09001,Fairfield,09120,Greater Bridgeport
+06828,Fairfield,,09001,Fairfield,09120,Greater Bridgeport
+06829,Georgetown,P,09001,Fairfield,09190,Western Ct
+06830,Greenwich,,09001,Fairfield,09190,Western Ct
+06831,Greenwich,,09001,Fairfield,09190,Western Ct
+06836,Greenwich,P,09001,Fairfield,09190,Western Ct
+06838,Greens Farms,P,09001,Fairfield,09190,Western Ct
+06840,New Canaan,,09001,Fairfield,09190,Western Ct
+06850,Norwalk,,09001,Fairfield,09190,Western Ct
+06851,Norwalk,,09001,Fairfield,09190,Western Ct
+06852,Norwalk,P,09001,Fairfield,09190,Western Ct
+06853,Norwalk,,09001,Fairfield,09190,Western Ct
+06854,Norwalk,,09001,Fairfield,09190,Western Ct
+06855,Norwalk,,09001,Fairfield,09190,Western Ct
+06856,Norwalk,P,09001,Fairfield,09190,Western Ct
+06857,Norwalk,U,09001,Fairfield,09190,Western Ct
+06858,Norwalk,U,09001,Fairfield,09190,Western Ct
+06860,Norwalk,U,09001,Fairfield,09190,Western Ct
+06870,Old Greenwich,,09001,Fairfield,09190,Western Ct
+06875,Redding Center,P,09001,Fairfield,09190,Western Ct
+06876,Redding Ridge,P,09001,Fairfield,09190,Western Ct
+06877,Ridgefield,,09001,Fairfield,09190,Western Ct
+06878,Riverside,,09001,Fairfield,09190,Western Ct
+06879,Ridgefield,U,09001,Fairfield,09190,Western Ct
+06880,Westport,,09001,Fairfield,09190,Western Ct
+06881,Westport,P,09001,Fairfield,09190,Western Ct
+06883,Weston,,09001,Fairfield,09190,Western Ct
+06888,Westport,U,09001,Fairfield,09190,Western Ct
+06889,Westport,U,09001,Fairfield,09190,Western Ct
+06890,Southport,,09001,Fairfield,09120,Greater Bridgeport
+06896,Redding,,09001,Fairfield,09120,Greater Bridgeport
+06897,Wilton,,09001,Fairfield,09190,Western Ct
+06901,Stamford,,09001,Fairfield,09190,Western Ct
+06902,Stamford,,09001,Fairfield,09190,Western Ct
+06903,Stamford,,09001,Fairfield,09190,Western Ct
+06904,Stamford,P,09001,Fairfield,09190,Western Ct
+06905,Stamford,,09001,Fairfield,09190,Western Ct
+06906,Stamford,,09001,Fairfield,09190,Western Ct
+06907,Stamford,,09001,Fairfield,09190,Western Ct
+06910,Stamford,,09001,Fairfield,09190,Western Ct
+06911,Stamford,P,09001,Fairfield,09190,Western Ct
+06912,Stamford,P,09001,Fairfield,09190,Western Ct
+06913,Stamford,U,09001,Fairfield,09190,Western Ct
+06914,Stamford,U,09001,Fairfield,09190,Western Ct
+06926,Stamford,U,09001,Fairfield,09190,Western Ct
+06927,Stamford,U,09001,Fairfield,09190,Western Ct
